@@ -7,7 +7,7 @@
 
 #
 <div align="center">
-  <a href="https://www.python.org/downloads/release/python-31011/" target="_blank"> NodeJs</a>
+  <a href="https://www.python.org/downloads/release/python-31011/" target="_blank"> Python</a>
 </div>
 
 #
