@@ -3,7 +3,7 @@
 
 #
 
-### Download Python
+<h3 align="center">Download Python</h3>
 
 #
 <div align="center">
